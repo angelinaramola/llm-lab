@@ -11,7 +11,6 @@ This project fine‑tunes a small language model (OPT‑350M) on a short transcr
 
 ## Key Files
 - `notebooks/` — training and generation workflow
-- `data/` — placeholder folder (no transcript included)
 
 ## Notes
 - The transcript used for training is not included due to copyright.
